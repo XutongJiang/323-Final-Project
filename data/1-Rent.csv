@@ -1,0 +1,825 @@
+﻿Province,Unit,Rent
+"Bay Roberts, Newfoundland and Labrador",Bachelor units,
+"Bay Roberts, Newfoundland and Labrador",One bedroom units,
+"Bay Roberts, Newfoundland and Labrador",Two bedroom units,701
+"Bay Roberts, Newfoundland and Labrador",Three bedroom units,
+"Corner Brook, Newfoundland and Labrador",Bachelor units,572
+"Corner Brook, Newfoundland and Labrador",One bedroom units,709
+"Corner Brook, Newfoundland and Labrador",Two bedroom units,844
+"Corner Brook, Newfoundland and Labrador",Three bedroom units,926
+"Gander, Newfoundland and Labrador",Bachelor units,
+"Gander, Newfoundland and Labrador",One bedroom units,727
+"Gander, Newfoundland and Labrador",Two bedroom units,829
+"Gander, Newfoundland and Labrador",Three bedroom units,828
+"Grand Falls-Windsor, Newfoundland and Labrador",Bachelor units,
+"Grand Falls-Windsor, Newfoundland and Labrador",One bedroom units,677
+"Grand Falls-Windsor, Newfoundland and Labrador",Two bedroom units,812
+"Grand Falls-Windsor, Newfoundland and Labrador",Three bedroom units,796
+"St. John's, Newfoundland and Labrador",Bachelor units,783
+"St. John's, Newfoundland and Labrador",One bedroom units,851
+"St. John's, Newfoundland and Labrador",Two bedroom units,1033
+"St. John's, Newfoundland and Labrador",Three bedroom units,1055
+"Charlottetown, Prince Edward Island",Bachelor units,629
+"Charlottetown, Prince Edward Island",One bedroom units,927
+"Charlottetown, Prince Edward Island",Two bedroom units,1083
+"Charlottetown, Prince Edward Island",Three bedroom units,1226
+"Summerside, Prince Edward Island",Bachelor units,
+"Summerside, Prince Edward Island",One bedroom units,760
+"Summerside, Prince Edward Island",Two bedroom units,930
+"Summerside, Prince Edward Island",Three bedroom units,847
+"Cape Breton, Nova Scotia",Bachelor units,667
+"Cape Breton, Nova Scotia",One bedroom units,713
+"Cape Breton, Nova Scotia",Two bedroom units,871
+"Cape Breton, Nova Scotia",Three bedroom units,1276
+"Chester, Nova Scotia",Bachelor units,
+"Chester, Nova Scotia",One bedroom units,
+"Chester, Nova Scotia",Two bedroom units,
+"Chester, Nova Scotia",Three bedroom units,
+"East Hants, Nova Scotia",Bachelor units,
+"East Hants, Nova Scotia",One bedroom units,785
+"East Hants, Nova Scotia",Two bedroom units,1151
+"East Hants, Nova Scotia",Three bedroom units,
+"Halifax, Nova Scotia",Bachelor units,990
+"Halifax, Nova Scotia",One bedroom units,1156
+"Halifax, Nova Scotia",Two bedroom units,1449
+"Halifax, Nova Scotia",Three bedroom units,1690
+"Kentville, Nova Scotia",Bachelor units,589
+"Kentville, Nova Scotia",One bedroom units,686
+"Kentville, Nova Scotia",Two bedroom units,874
+"Kentville, Nova Scotia",Three bedroom units,
+"Lunenburg, Nova Scotia",Bachelor units,
+"Lunenburg, Nova Scotia",One bedroom units,
+"Lunenburg, Nova Scotia",Two bedroom units,
+"Lunenburg, Nova Scotia",Three bedroom units,
+"New Glasgow, Nova Scotia",Bachelor units,668
+"New Glasgow, Nova Scotia",One bedroom units,701
+"New Glasgow, Nova Scotia",Two bedroom units,843
+"New Glasgow, Nova Scotia",Three bedroom units,995
+"Queens, Nova Scotia",Bachelor units,
+"Queens, Nova Scotia",One bedroom units,
+"Queens, Nova Scotia",Two bedroom units,674
+"Queens, Nova Scotia",Three bedroom units,
+"Truro, Nova Scotia",Bachelor units,576
+"Truro, Nova Scotia",One bedroom units,745
+"Truro, Nova Scotia",Two bedroom units,957
+"Truro, Nova Scotia",Three bedroom units,1124
+"West Hants, Nova Scotia",Bachelor units,
+"West Hants, Nova Scotia",One bedroom units,
+"West Hants, Nova Scotia",Two bedroom units,
+"West Hants, Nova Scotia",Three bedroom units,
+"Yarmouth, Nova Scotia",Bachelor units,0
+"Yarmouth, Nova Scotia",One bedroom units,0
+"Yarmouth, Nova Scotia",Two bedroom units,0
+"Yarmouth, Nova Scotia",Three bedroom units,0
+"Bathurst, New Brunswick",Bachelor units,533
+"Bathurst, New Brunswick",One bedroom units,645
+"Bathurst, New Brunswick",Two bedroom units,837
+"Bathurst, New Brunswick",Three bedroom units,877
+"Campbellton, New Brunswick",Bachelor units,
+"Campbellton, New Brunswick",One bedroom units,553
+"Campbellton, New Brunswick",Two bedroom units,672
+"Campbellton, New Brunswick",Three bedroom units,889
+"Edmundston, New Brunswick",Bachelor units,498
+"Edmundston, New Brunswick",One bedroom units,578
+"Edmundston, New Brunswick",Two bedroom units,700
+"Edmundston, New Brunswick",Three bedroom units,793
+"Fredericton, New Brunswick",Bachelor units,799
+"Fredericton, New Brunswick",One bedroom units,951
+"Fredericton, New Brunswick",Two bedroom units,1165
+"Fredericton, New Brunswick",Three bedroom units,1445
+"Miramichi, New Brunswick",Bachelor units,507
+"Miramichi, New Brunswick",One bedroom units,636
+"Miramichi, New Brunswick",Two bedroom units,888
+"Miramichi, New Brunswick",Three bedroom units,1070
+"Moncton, New Brunswick",Bachelor units,765
+"Moncton, New Brunswick",One bedroom units,926
+"Moncton, New Brunswick",Two bedroom units,1120
+"Moncton, New Brunswick",Three bedroom units,1203
+"Saint John, New Brunswick",Bachelor units,666
+"Saint John, New Brunswick",One bedroom units,827
+"Saint John, New Brunswick",Two bedroom units,1019
+"Saint John, New Brunswick",Three bedroom units,1013
+"Alma, Quebec",Bachelor units,460
+"Alma, Quebec",One bedroom units,452
+"Alma, Quebec",Two bedroom units,605
+"Alma, Quebec",Three bedroom units,618
+"Amos, Quebec",Bachelor units,579
+"Amos, Quebec",One bedroom units,607
+"Amos, Quebec",Two bedroom units,743
+"Amos, Quebec",Three bedroom units,806
+"Baie-Comeau, Quebec",Bachelor units,498
+"Baie-Comeau, Quebec",One bedroom units,585
+"Baie-Comeau, Quebec",Two bedroom units,717
+"Baie-Comeau, Quebec",Three bedroom units,806
+"Campbellton, Quebec",Bachelor units,
+"Campbellton, Quebec",One bedroom units,
+"Campbellton, Quebec",Two bedroom units,
+"Campbellton, Quebec",Three bedroom units,
+"Cowansville, Quebec",Bachelor units,458
+"Cowansville, Quebec",One bedroom units,553
+"Cowansville, Quebec",Two bedroom units,901
+"Cowansville, Quebec",Three bedroom units,907
+"Dolbeau-Mistassini, Quebec",Bachelor units,370
+"Dolbeau-Mistassini, Quebec",One bedroom units,406
+"Dolbeau-Mistassini, Quebec",Two bedroom units,502
+"Dolbeau-Mistassini, Quebec",Three bedroom units,544
+"Drummondville, Quebec",Bachelor units,472
+"Drummondville, Quebec",One bedroom units,567
+"Drummondville, Quebec",Two bedroom units,752
+"Drummondville, Quebec",Three bedroom units,912
+"Gaspé, Quebec",Bachelor units,435
+"Gaspé, Quebec",One bedroom units,536
+"Gaspé, Quebec",Two bedroom units,680
+"Gaspé, Quebec",Three bedroom units,686
+"Ottawa-Gatineau, Quebec",Bachelor units,783
+"Ottawa-Gatineau, Quebec",One bedroom units,957
+"Ottawa-Gatineau, Quebec",Two bedroom units,1270
+"Ottawa-Gatineau, Quebec",Three bedroom units,1374
+"Granby, Quebec",Bachelor units,501
+"Granby, Quebec",One bedroom units,642
+"Granby, Quebec",Two bedroom units,852
+"Granby, Quebec",Three bedroom units,1035
+"Hawkesbury, Quebec",Bachelor units,
+"Hawkesbury, Quebec",One bedroom units,932
+"Hawkesbury, Quebec",Two bedroom units,914
+"Hawkesbury, Quebec",Three bedroom units,1348
+"Joliette, Quebec",Bachelor units,544
+"Joliette, Quebec",One bedroom units,629
+"Joliette, Quebec",Two bedroom units,832
+"Joliette, Quebec",Three bedroom units,924
+"La Tuque, Quebec",Bachelor units,391
+"La Tuque, Quebec",One bedroom units,416
+"La Tuque, Quebec",Two bedroom units,505
+"La Tuque, Quebec",Three bedroom units,533
+"Lachute, Quebec",Bachelor units,516
+"Lachute, Quebec",One bedroom units,695
+"Lachute, Quebec",Two bedroom units,875
+"Lachute, Quebec",Three bedroom units,936
+"Les Îles-de-la-Madeleine, Quebec",Bachelor units,
+"Les Îles-de-la-Madeleine, Quebec",One bedroom units,604
+"Les Îles-de-la-Madeleine, Quebec",Two bedroom units,723
+"Les Îles-de-la-Madeleine, Quebec",Three bedroom units,848
+"Matane, Quebec",Bachelor units,436
+"Matane, Quebec",One bedroom units,504
+"Matane, Quebec",Two bedroom units,597
+"Matane, Quebec",Three bedroom units,638
+"Mont-Laurier, Quebec",Bachelor units,430
+"Mont-Laurier, Quebec",One bedroom units,493
+"Mont-Laurier, Quebec",Two bedroom units,628
+"Mont-Laurier, Quebec",Three bedroom units,655
+"Montmagny, Quebec",Bachelor units,445
+"Montmagny, Quebec",One bedroom units,531
+"Montmagny, Quebec",Two bedroom units,707
+"Montmagny, Quebec",Three bedroom units,739
+"Montréal, Quebec",Bachelor units,785
+"Montréal, Quebec",One bedroom units,912
+"Montréal, Quebec",Two bedroom units,1022
+"Montréal, Quebec",Three bedroom units,1232
+"Prévost, Quebec",Bachelor units,
+"Prévost, Quebec",One bedroom units,563
+"Prévost, Quebec",Two bedroom units,1119
+"Prévost, Quebec",Three bedroom units,986
+"Québec, Quebec",Bachelor units,681
+"Québec, Quebec",One bedroom units,864
+"Québec, Quebec",Two bedroom units,976
+"Québec, Quebec",Three bedroom units,1150
+"Rawdon, Quebec",Bachelor units,414
+"Rawdon, Quebec",One bedroom units,552
+"Rawdon, Quebec",Two bedroom units,850
+"Rawdon, Quebec",Three bedroom units,1201
+"Rimouski, Quebec",Bachelor units,531
+"Rimouski, Quebec",One bedroom units,593
+"Rimouski, Quebec",Two bedroom units,741
+"Rimouski, Quebec",Three bedroom units,852
+"Rivière-du-Loup, Quebec",Bachelor units,459
+"Rivière-du-Loup, Quebec",One bedroom units,518
+"Rivière-du-Loup, Quebec",Two bedroom units,698
+"Rivière-du-Loup, Quebec",Three bedroom units,767
+"Roberval, Quebec",Bachelor units,
+"Roberval, Quebec",One bedroom units,420
+"Roberval, Quebec",Two bedroom units,542
+"Roberval, Quebec",Three bedroom units,654
+"Rouyn-Noranda, Quebec",Bachelor units,536
+"Rouyn-Noranda, Quebec",One bedroom units,611
+"Rouyn-Noranda, Quebec",Two bedroom units,845
+"Rouyn-Noranda, Quebec",Three bedroom units,857
+"Saint-Félicien, Quebec",Bachelor units,390
+"Saint-Félicien, Quebec",One bedroom units,462
+"Saint-Félicien, Quebec",Two bedroom units,649
+"Saint-Félicien, Quebec",Three bedroom units,676
+"Saint-Georges, Quebec",Bachelor units,412
+"Saint-Georges, Quebec",One bedroom units,500
+"Saint-Georges, Quebec",Two bedroom units,625
+"Saint-Georges, Quebec",Three bedroom units,667
+"Saint-Hyacinthe, Quebec",Bachelor units,590
+"Saint-Hyacinthe, Quebec",One bedroom units,794
+"Saint-Hyacinthe, Quebec",Two bedroom units,940
+"Saint-Hyacinthe, Quebec",Three bedroom units,1070
+"Saint-Jean-sur-Richelieu, Quebec",Bachelor units,0
+"Saint-Jean-sur-Richelieu, Quebec",One bedroom units,0
+"Saint-Jean-sur-Richelieu, Quebec",Two bedroom units,0
+"Saint-Jean-sur-Richelieu, Quebec",Three bedroom units,0
+"Saint-Lin--Laurentides, Quebec",Bachelor units,0
+"Saint-Lin--Laurentides, Quebec",One bedroom units,0
+"Saint-Lin--Laurentides, Quebec",Two bedroom units,0
+"Saint-Lin--Laurentides, Quebec",Three bedroom units,0
+"Sainte-Adèle, Quebec",Bachelor units,542
+"Sainte-Adèle, Quebec",One bedroom units,647
+"Sainte-Adèle, Quebec",Two bedroom units,856
+"Sainte-Adèle, Quebec",Three bedroom units,857
+"Sainte-Marie, Quebec",Bachelor units,465
+"Sainte-Marie, Quebec",One bedroom units,604
+"Sainte-Marie, Quebec",Two bedroom units,767
+"Sainte-Marie, Quebec",Three bedroom units,838
+"Sainte- Sophie, Quebec",Bachelor units,
+"Sainte- Sophie, Quebec",One bedroom units,
+"Sainte- Sophie, Quebec",Two bedroom units,1039
+"Sainte- Sophie, Quebec",Three bedroom units,1316
+"Saguenay, Quebec",Bachelor units,512
+"Saguenay, Quebec",One bedroom units,543
+"Saguenay, Quebec",Two bedroom units,717
+"Saguenay, Quebec",Three bedroom units,834
+"Salaberry-de-Valleyfield, Quebec",Bachelor units,520
+"Salaberry-de-Valleyfield, Quebec",One bedroom units,595
+"Salaberry-de-Valleyfield, Quebec",Two bedroom units,885
+"Salaberry-de-Valleyfield, Quebec",Three bedroom units,786
+"Sept-Îles, Quebec",Bachelor units,615
+"Sept-Îles, Quebec",One bedroom units,641
+"Sept-Îles, Quebec",Two bedroom units,756
+"Sept-Îles, Quebec",Three bedroom units,860
+"Shawinigan, Quebec",Bachelor units,389
+"Shawinigan, Quebec",One bedroom units,454
+"Shawinigan, Quebec",Two bedroom units,631
+"Shawinigan, Quebec",Three bedroom units,631
+"Sherbrooke, Quebec",Bachelor units,555
+"Sherbrooke, Quebec",One bedroom units,677
+"Sherbrooke, Quebec",Two bedroom units,808
+"Sherbrooke, Quebec",Three bedroom units,1065
+"Sorel-Tracy, Quebec",Bachelor units,425
+"Sorel-Tracy, Quebec",One bedroom units,556
+"Sorel-Tracy, Quebec",Two bedroom units,706
+"Sorel-Tracy, Quebec",Three bedroom units,720
+"Thetford Mines, Quebec",Bachelor units,501
+"Thetford Mines, Quebec",One bedroom units,455
+"Thetford Mines, Quebec",Two bedroom units,601
+"Thetford Mines, Quebec",Three bedroom units,594
+"Trois-Rivières, Quebec",Bachelor units,454
+"Trois-Rivières, Quebec",One bedroom units,565
+"Trois-Rivières, Quebec",Two bedroom units,719
+"Trois-Rivières, Quebec",Three bedroom units,778
+"Val-d'Or, Quebec",Bachelor units,595
+"Val-d'Or, Quebec",One bedroom units,594
+"Val-d'Or, Quebec",Two bedroom units,782
+"Val-d'Or, Quebec",Three bedroom units,874
+"Victoriaville, Quebec",Bachelor units,444
+"Victoriaville, Quebec",One bedroom units,577
+"Victoriaville, Quebec",Two bedroom units,720
+"Victoriaville, Quebec",Three bedroom units,766
+"Barrie, Ontario",Bachelor units,1073
+"Barrie, Ontario",One bedroom units,1333
+"Barrie, Ontario",Two bedroom units,1542
+"Barrie, Ontario",Three bedroom units,1818
+"Belleville, Ontario",Bachelor units,913
+"Belleville, Ontario",One bedroom units,1108
+"Belleville, Ontario",Two bedroom units,1282
+"Belleville, Ontario",Three bedroom units,1463
+"Bracebridge, Ontario",Bachelor units,
+"Bracebridge, Ontario",One bedroom units,959
+"Bracebridge, Ontario",Two bedroom units,1297
+"Bracebridge, Ontario",Three bedroom units,
+"Brantford, Ontario",Bachelor units,885
+"Brantford, Ontario",One bedroom units,1165
+"Brantford, Ontario",Two bedroom units,1259
+"Brantford, Ontario",Three bedroom units,1352
+"Brighton, Ontario",Bachelor units,
+"Brighton, Ontario",One bedroom units,
+"Brighton, Ontario",Two bedroom units,
+"Brighton, Ontario",Three bedroom units,
+"Brock, Ontario",Bachelor units,
+"Brock, Ontario",One bedroom units,1015
+"Brock, Ontario",Two bedroom units,876
+"Brock, Ontario",Three bedroom units,
+"Brockville, Ontario",Bachelor units,767
+"Brockville, Ontario",One bedroom units,910
+"Brockville, Ontario",Two bedroom units,1150
+"Brockville, Ontario",Three bedroom units,1149
+"Centre Wellington, Ontario",Bachelor units,
+"Centre Wellington, Ontario",One bedroom units,1122
+"Centre Wellington, Ontario",Two bedroom units,1413
+"Centre Wellington, Ontario",Three bedroom units,1330
+"Chatham-Kent, Ontario",Bachelor units,844
+"Chatham-Kent, Ontario",One bedroom units,954
+"Chatham-Kent, Ontario",Two bedroom units,1079
+"Chatham-Kent, Ontario",Three bedroom units,1072
+"Cobourg, Ontario",Bachelor units,
+"Cobourg, Ontario",One bedroom units,1033
+"Cobourg, Ontario",Two bedroom units,
+"Cobourg, Ontario",Three bedroom units,
+"Collingwood, Ontario",Bachelor units,
+"Collingwood, Ontario",One bedroom units,1163
+"Collingwood, Ontario",Two bedroom units,1299
+"Collingwood, Ontario",Three bedroom units,
+"Cornwall, Ontario",Bachelor units,783
+"Cornwall, Ontario",One bedroom units,832
+"Cornwall, Ontario",Two bedroom units,1015
+"Cornwall, Ontario",Three bedroom units,1103
+"Elliot Lake, Ontario",Bachelor units,677
+"Elliot Lake, Ontario",One bedroom units,691
+"Elliot Lake, Ontario",Two bedroom units,744
+"Elliot Lake, Ontario",Three bedroom units,871
+"Erin, Ontario",Bachelor units,
+"Erin, Ontario",One bedroom units,
+"Erin, Ontario",Two bedroom units,
+"Erin, Ontario",Three bedroom units,
+"Essex, Ontario",Bachelor units,
+"Essex, Ontario",One bedroom units,
+"Essex, Ontario",Two bedroom units,
+"Essex, Ontario",Three bedroom units,
+"Gravenhurst, Ontario",Bachelor units,
+"Gravenhurst, Ontario",One bedroom units,981
+"Gravenhurst, Ontario",Two bedroom units,1170
+"Gravenhurst, Ontario",Three bedroom units,
+"Greater Napanee, Ontario",Bachelor units,
+"Greater Napanee, Ontario",One bedroom units,826
+"Greater Napanee, Ontario",Two bedroom units,930
+"Greater Napanee, Ontario",Three bedroom units,
+"Greater Sudbury, Ontario",Bachelor units,796
+"Greater Sudbury, Ontario",One bedroom units,931
+"Greater Sudbury, Ontario",Two bedroom units,1248
+"Greater Sudbury, Ontario",Three bedroom units,1359
+"Guelph, Ontario",Bachelor units,990
+"Guelph, Ontario",One bedroom units,1340
+"Guelph, Ontario",Two bedroom units,1498
+"Guelph, Ontario",Three bedroom units,1759
+"Haldimand County, Ontario",Bachelor units,
+"Haldimand County, Ontario",One bedroom units,863
+"Haldimand County, Ontario",Two bedroom units,1031
+"Haldimand County, Ontario",Three bedroom units,
+"Hamilton, Ontario",Bachelor units,947
+"Hamilton, Ontario",One bedroom units,1198
+"Hamilton, Ontario",Two bedroom units,1438
+"Hamilton, Ontario",Three bedroom units,1567
+"Hawkesbury, Ontario",Bachelor units,533
+"Hawkesbury, Ontario",One bedroom units,640
+"Hawkesbury, Ontario",Two bedroom units,798
+"Hawkesbury, Ontario",Three bedroom units,911
+"Huntsville, Ontario",Bachelor units,
+"Huntsville, Ontario",One bedroom units,957
+"Huntsville, Ontario",Two bedroom units,1148
+"Huntsville, Ontario",Three bedroom units,
+"Ingersoll, Ontario",Bachelor units,
+"Ingersoll, Ontario",One bedroom units,1111
+"Ingersoll, Ontario",Two bedroom units,1250
+"Ingersoll, Ontario",Three bedroom units,
+"Kawartha Lakes, Ontario",Bachelor units,777
+"Kawartha Lakes, Ontario",One bedroom units,1070
+"Kawartha Lakes, Ontario",Two bedroom units,1316
+"Kawartha Lakes, Ontario",Three bedroom units,1294
+"Kenora, Ontario",Bachelor units,
+"Kenora, Ontario",One bedroom units,836
+"Kenora, Ontario",Two bedroom units,1008
+"Kenora, Ontario",Three bedroom units,
+"Kincardine, Ontario",Bachelor units,
+"Kincardine, Ontario",One bedroom units,1166
+"Kincardine, Ontario",Two bedroom units,1374
+"Kincardine, Ontario",Three bedroom units,
+"Kings Subdivision, Ontario",Bachelor units,
+"Kings Subdivision, Ontario",One bedroom units,
+"Kings Subdivision, Ontario",Two bedroom units,984
+"Kings Subdivision, Ontario",Three bedroom units,
+"Kingston, Ontario",Bachelor units,975
+"Kingston, Ontario",One bedroom units,1212
+"Kingston, Ontario",Two bedroom units,1463
+"Kingston, Ontario",Three bedroom units,1862
+"Kitchener-Cambridge-Waterloo, Ontario",Bachelor units,1063
+"Kitchener-Cambridge-Waterloo, Ontario",One bedroom units,1240
+"Kitchener-Cambridge-Waterloo, Ontario",Two bedroom units,1454
+"Kitchener-Cambridge-Waterloo, Ontario",Three bedroom units,1590
+"Lambton Shores, Ontario",Bachelor units,
+"Lambton Shores, Ontario",One bedroom units,
+"Lambton Shores, Ontario",Two bedroom units,1297
+"Lambton Shores, Ontario",Three bedroom units,
+"Leamington, Ontario",Bachelor units,
+"Leamington, Ontario",One bedroom units,916
+"Leamington, Ontario",Two bedroom units,1079
+"Leamington, Ontario",Three bedroom units,1215
+"London, Ontario",Bachelor units,860
+"London, Ontario",One bedroom units,1124
+"London, Ontario",Two bedroom units,1394
+"London, Ontario",Three bedroom units,1509
+"Meaford, Ontario",Bachelor units,
+"Meaford, Ontario",One bedroom units,842
+"Meaford, Ontario",Two bedroom units,1044
+"Meaford, Ontario",Three bedroom units,
+"Midland, Ontario",Bachelor units,
+"Midland, Ontario",One bedroom units,1147
+"Midland, Ontario",Two bedroom units,
+"Midland, Ontario",Three bedroom units,
+"Mississippi Mills, Ontario",Bachelor units,0
+"Mississippi Mills, Ontario",One bedroom units,0
+"Mississippi Mills, Ontario",Two bedroom units,0
+"Mississippi Mills, Ontario",Three bedroom units,0
+"Norfolk, Ontario",Bachelor units,610
+"Norfolk, Ontario",One bedroom units,892
+"Norfolk, Ontario",Two bedroom units,1040
+"Norfolk, Ontario",Three bedroom units,
+"North Bay, Ontario",Bachelor units,691
+"North Bay, Ontario",One bedroom units,927
+"North Bay, Ontario",Two bedroom units,1143
+"North Bay, Ontario",Three bedroom units,1276
+"North Grenville, Ontario",Bachelor units,0
+"North Grenville, Ontario",One bedroom units,0
+"North Grenville, Ontario",Two bedroom units,0
+"North Grenville, Ontario",Three bedroom units,0
+"North Perth, Ontario",Bachelor units,
+"North Perth, Ontario",One bedroom units,1009
+"North Perth, Ontario",Two bedroom units,1010
+"North Perth, Ontario",Three bedroom units,1223
+"Orillia, Ontario",Bachelor units,867
+"Orillia, Ontario",One bedroom units,1145
+"Orillia, Ontario",Two bedroom units,1237
+"Orillia, Ontario",Three bedroom units,1407
+"Oshawa, Ontario",Bachelor units,1081
+"Oshawa, Ontario",One bedroom units,1284
+"Oshawa, Ontario",Two bedroom units,1463
+"Oshawa, Ontario",Three bedroom units,1888
+"Ottawa-Gatineau, Ontario",Bachelor units,1088
+"Ottawa-Gatineau, Ontario",One bedroom units,1285
+"Ottawa-Gatineau, Ontario",Two bedroom units,1499
+"Ottawa-Gatineau, Ontario",Three bedroom units,1628
+"Ottawa-Gatineau, Ontario",Bachelor units,1121
+"Ottawa-Gatineau, Ontario",One bedroom units,1347
+"Ottawa-Gatineau, Ontario",Two bedroom units,1627
+"Ottawa-Gatineau, Ontario",Three bedroom units,1769
+"Owen Sound, Ontario",Bachelor units,733
+"Owen Sound, Ontario",One bedroom units,945
+"Owen Sound, Ontario",Two bedroom units,1078
+"Owen Sound, Ontario",Three bedroom units,1164
+"Pembroke, Ontario",Bachelor units,
+"Pembroke, Ontario",One bedroom units,827
+"Pembroke, Ontario",Two bedroom units,1102
+"Pembroke, Ontario",Three bedroom units,
+"Petawawa, Ontario",Bachelor units,
+"Petawawa, Ontario",One bedroom units,808
+"Petawawa, Ontario",Two bedroom units,1009
+"Petawawa, Ontario",Three bedroom units,
+"Peterborough, Ontario",Bachelor units,873
+"Peterborough, Ontario",One bedroom units,1083
+"Peterborough, Ontario",Two bedroom units,1336
+"Peterborough, Ontario",Three bedroom units,1510
+"Port Hope, Ontario",Bachelor units,
+"Port Hope, Ontario",One bedroom units,1566
+"Port Hope, Ontario",Two bedroom units,1563
+"Port Hope, Ontario",Three bedroom units,1840
+"Prince Edward, Ontario",Bachelor units,
+"Prince Edward, Ontario",One bedroom units,
+"Prince Edward, Ontario",Two bedroom units,1146
+"Prince Edward, Ontario",Three bedroom units,
+"St. Andrews, Ontario",Bachelor units,
+"St. Andrews, Ontario",One bedroom units,
+"St. Andrews, Ontario",Two bedroom units,
+"St. Andrews, Ontario",Three bedroom units,
+"St. Catharines-Niagara, Ontario",Bachelor units,833
+"St. Catharines-Niagara, Ontario",One bedroom units,1070
+"St. Catharines-Niagara, Ontario",Two bedroom units,1258
+"St. Catharines-Niagara, Ontario",Three bedroom units,1366
+"Sarnia, Ontario",Bachelor units,873
+"Sarnia, Ontario",One bedroom units,1007
+"Sarnia, Ontario",Two bedroom units,1202
+"Sarnia, Ontario",Three bedroom units,1462
+"Saugeen Shores, Ontario",Bachelor units,
+"Saugeen Shores, Ontario",One bedroom units,982
+"Saugeen Shores, Ontario",Two bedroom units,1457
+"Saugeen Shores, Ontario",Three bedroom units,1448
+"Sault Ste. Marie, Ontario",Bachelor units,746
+"Sault Ste. Marie, Ontario",One bedroom units,917
+"Sault Ste. Marie, Ontario",Two bedroom units,1092
+"Sault Ste. Marie, Ontario",Three bedroom units,1226
+"Scugog, Ontario",Bachelor units,
+"Scugog, Ontario",One bedroom units,1112
+"Scugog, Ontario",Two bedroom units,1265
+"Scugog, Ontario",Three bedroom units,
+"Stratford, Ontario",Bachelor units,718
+"Stratford, Ontario",One bedroom units,1284
+"Stratford, Ontario",Two bedroom units,1454
+"Stratford, Ontario",Three bedroom units,1488
+"Temiskaming Shores, Ontario",Bachelor units,0
+"Temiskaming Shores, Ontario",One bedroom units,0
+"Temiskaming Shores, Ontario",Two bedroom units,0
+"Temiskaming Shores, Ontario",Three bedroom units,0
+"The Nation, Ontario",Bachelor units,
+"The Nation, Ontario",One bedroom units,
+"The Nation, Ontario",Two bedroom units,
+"The Nation, Ontario",Three bedroom units,
+"Thunder Bay, Ontario",Bachelor units,757
+"Thunder Bay, Ontario",One bedroom units,963
+"Thunder Bay, Ontario",Two bedroom units,1173
+"Thunder Bay, Ontario",Three bedroom units,1372
+"Tillsonburg, Ontario",Bachelor units,937
+"Tillsonburg, Ontario",One bedroom units,978
+"Tillsonburg, Ontario",Two bedroom units,1138
+"Tillsonburg, Ontario",Three bedroom units,
+"Timmins, Ontario",Bachelor units,570
+"Timmins, Ontario",One bedroom units,942
+"Timmins, Ontario",Two bedroom units,1070
+"Timmins, Ontario",Three bedroom units,1245
+"Toronto, Ontario",Bachelor units,1305
+"Toronto, Ontario",One bedroom units,1526
+"Toronto, Ontario",Two bedroom units,1779
+"Toronto, Ontario",Three bedroom units,2015
+"Trent Hills, Ontario",Bachelor units,
+"Trent Hills, Ontario",One bedroom units,
+"Trent Hills, Ontario",Two bedroom units,
+"Trent Hills, Ontario",Three bedroom units,
+"Wasaga Beach, Ontario",Bachelor units,
+"Wasaga Beach, Ontario",One bedroom units,
+"Wasaga Beach, Ontario",Two bedroom units,
+"Wasaga Beach, Ontario",Three bedroom units,
+"West Grey, Ontario",Bachelor units,
+"West Grey, Ontario",One bedroom units,
+"West Grey, Ontario",Two bedroom units,
+"West Grey, Ontario",Three bedroom units,
+"West Nipissing, Ontario",Bachelor units,
+"West Nipissing, Ontario",One bedroom units,700
+"West Nipissing, Ontario",Two bedroom units,946
+"West Nipissing, Ontario",Three bedroom units,
+"Windsor, Ontario",Bachelor units,791
+"Windsor, Ontario",One bedroom units,1017
+"Windsor, Ontario",Two bedroom units,1194
+"Windsor, Ontario",Three bedroom units,1504
+"Woodstock, Ontario",Bachelor units,859
+"Woodstock, Ontario",One bedroom units,1228
+"Woodstock, Ontario",Two bedroom units,1432
+"Woodstock, Ontario",Three bedroom units,1414
+"Brandon, Manitoba",Bachelor units,611
+"Brandon, Manitoba",One bedroom units,783
+"Brandon, Manitoba",Two bedroom units,1023
+"Brandon, Manitoba",Three bedroom units,1214
+"Hanover, Manitoba",Bachelor units,
+"Hanover, Manitoba",One bedroom units,
+"Hanover, Manitoba",Two bedroom units,
+"Hanover, Manitoba",Three bedroom units,
+"Portage La Prairie, Manitoba",Bachelor units,537
+"Portage La Prairie, Manitoba",One bedroom units,755
+"Portage La Prairie, Manitoba",Two bedroom units,1119
+"Portage La Prairie, Manitoba",Three bedroom units,1245
+"Steinbach, Manitoba",Bachelor units,651
+"Steinbach, Manitoba",One bedroom units,846
+"Steinbach, Manitoba",Two bedroom units,942
+"Steinbach, Manitoba",Three bedroom units,1247
+"Thompson, Manitoba",Bachelor units,764
+"Thompson, Manitoba",One bedroom units,916
+"Thompson, Manitoba",Two bedroom units,1096
+"Thompson, Manitoba",Three bedroom units,1105
+"Winnipeg, Manitoba",Bachelor units,789
+"Winnipeg, Manitoba",One bedroom units,1056
+"Winnipeg, Manitoba",Two bedroom units,1352
+"Winnipeg, Manitoba",Three bedroom units,1684
+"Estevan, Saskatchewan",Bachelor units,467
+"Estevan, Saskatchewan",One bedroom units,839
+"Estevan, Saskatchewan",Two bedroom units,959
+"Estevan, Saskatchewan",Three bedroom units,1103
+"Lloydminster, Saskatchewan",Bachelor units,
+"Lloydminster, Saskatchewan",One bedroom units,965
+"Lloydminster, Saskatchewan",Two bedroom units,993
+"Lloydminster, Saskatchewan",Three bedroom units,1248
+"Moose Jaw, Saskatchewan",Bachelor units,628
+"Moose Jaw, Saskatchewan",One bedroom units,794
+"Moose Jaw, Saskatchewan",Two bedroom units,1052
+"Moose Jaw, Saskatchewan",Three bedroom units,1255
+"North Battleford, Saskatchewan",Bachelor units,644
+"North Battleford, Saskatchewan",One bedroom units,743
+"North Battleford, Saskatchewan",Two bedroom units,918
+"North Battleford, Saskatchewan",Three bedroom units,1045
+"Prince Albert, Saskatchewan",Bachelor units,669
+"Prince Albert, Saskatchewan",One bedroom units,848
+"Prince Albert, Saskatchewan",Two bedroom units,956
+"Prince Albert, Saskatchewan",Three bedroom units,1045
+"Regina, Saskatchewan",Bachelor units,743
+"Regina, Saskatchewan",One bedroom units,988
+"Regina, Saskatchewan",Two bedroom units,1191
+"Regina, Saskatchewan",Three bedroom units,1424
+"Saskatoon, Saskatchewan",Bachelor units,780
+"Saskatoon, Saskatchewan",One bedroom units,1026
+"Saskatoon, Saskatchewan",Two bedroom units,1248
+"Saskatoon, Saskatchewan",Three bedroom units,1417
+"Swift Current, Saskatchewan",Bachelor units,680
+"Swift Current, Saskatchewan",One bedroom units,758
+"Swift Current, Saskatchewan",Two bedroom units,868
+"Swift Current, Saskatchewan",Three bedroom units,1041
+"Yorkton, Saskatchewan",Bachelor units,780
+"Yorkton, Saskatchewan",One bedroom units,885
+"Yorkton, Saskatchewan",Two bedroom units,1001
+"Yorkton, Saskatchewan",Three bedroom units,1161
+"Bonnyvill No. 87, Alberta",Bachelor units,
+"Bonnyvill No. 87, Alberta",One bedroom units,
+"Bonnyvill No. 87, Alberta",Two bedroom units,
+"Bonnyvill No. 87, Alberta",Three bedroom units,
+"Brooks, Alberta",Bachelor units,770
+"Brooks, Alberta",One bedroom units,863
+"Brooks, Alberta",Two bedroom units,1029
+"Brooks, Alberta",Three bedroom units,1172
+"Calgary, Alberta",Bachelor units,972
+"Calgary, Alberta",One bedroom units,1222
+"Calgary, Alberta",Two bedroom units,1463
+"Calgary, Alberta",Three bedroom units,1579
+"Camrose, Alberta",Bachelor units,
+"Camrose, Alberta",One bedroom units,980
+"Camrose, Alberta",Two bedroom units,1104
+"Camrose, Alberta",Three bedroom units,1086
+"Canmore, Alberta",Bachelor units,
+"Canmore, Alberta",One bedroom units,1508
+"Canmore, Alberta",Two bedroom units,1915
+"Canmore, Alberta",Three bedroom units,
+"Clearwater County, Alberta",Bachelor units,
+"Clearwater County, Alberta",One bedroom units,
+"Clearwater County, Alberta",Two bedroom units,
+"Clearwater County, Alberta",Three bedroom units,
+"Cold Lake, Alberta",Bachelor units,
+"Cold Lake, Alberta",One bedroom units,872
+"Cold Lake, Alberta",Two bedroom units,1057
+"Cold Lake, Alberta",Three bedroom units,1196
+"Edmonton, Alberta",Bachelor units,904
+"Edmonton, Alberta",One bedroom units,1070
+"Edmonton, Alberta",Two bedroom units,1303
+"Edmonton, Alberta",Three bedroom units,1449
+"Foothills No. 13, Alberta",Bachelor units,
+"Foothills No. 13, Alberta",One bedroom units,
+"Foothills No. 13, Alberta",Two bedroom units,
+"Foothills No. 13, Alberta",Three bedroom units,
+"Grande Prairie, Alberta",Bachelor units,841
+"Grande Prairie, Alberta",One bedroom units,964
+"Grande Prairie, Alberta",Two bedroom units,1128
+"Grande Prairie, Alberta",Three bedroom units,1328
+"High River, Alberta",Bachelor units,
+"High River, Alberta",One bedroom units,932
+"High River, Alberta",Two bedroom units,1077
+"High River, Alberta",Three bedroom units,1146
+"Lacombe, Alberta",Bachelor units,
+"Lacombe, Alberta",One bedroom units,897
+"Lacombe, Alberta",Two bedroom units,1225
+"Lacombe, Alberta",Three bedroom units,1300
+"Lacombe County, Alberta",Bachelor units,
+"Lacombe County, Alberta",One bedroom units,
+"Lacombe County, Alberta",Two bedroom units,
+"Lacombe County, Alberta",Three bedroom units,
+"Lethbridge, Alberta",Bachelor units,879
+"Lethbridge, Alberta",One bedroom units,1008
+"Lethbridge, Alberta",Two bedroom units,1099
+"Lethbridge, Alberta",Three bedroom units,1276
+"Lloydminster, Alberta",Bachelor units,703
+"Lloydminster, Alberta",One bedroom units,937
+"Lloydminster, Alberta",Two bedroom units,1043
+"Lloydminster, Alberta",Three bedroom units,1206
+"Mackenzie No. 23, Alberta",Bachelor units,
+"Mackenzie No. 23, Alberta",One bedroom units,
+"Mackenzie No. 23, Alberta",Two bedroom units,
+"Mackenzie No. 23, Alberta",Three bedroom units,
+"Medicine Hat, Alberta",Bachelor units,844
+"Medicine Hat, Alberta",One bedroom units,916
+"Medicine Hat, Alberta",Two bedroom units,970
+"Medicine Hat, Alberta",Three bedroom units,1143
+"Mountain View County, Alberta",Bachelor units,
+"Mountain View County, Alberta",One bedroom units,
+"Mountain View County, Alberta",Two bedroom units,
+"Mountain View County, Alberta",Three bedroom units,
+"Okotoks, Alberta",Bachelor units,
+"Okotoks, Alberta",One bedroom units,
+"Okotoks, Alberta",Two bedroom units,1083
+"Okotoks, Alberta",Three bedroom units,
+"Red Deer, Alberta",Bachelor units,791
+"Red Deer, Alberta",One bedroom units,929
+"Red Deer, Alberta",Two bedroom units,1083
+"Red Deer, Alberta",Three bedroom units,1268
+"Red Deer County, Alberta",Bachelor units,
+"Red Deer County, Alberta",One bedroom units,
+"Red Deer County, Alberta",Two bedroom units,1291
+"Red Deer County, Alberta",Three bedroom units,
+"Strathmore, Alberta",Bachelor units,
+"Strathmore, Alberta",One bedroom units,1050
+"Strathmore, Alberta",Two bedroom units,1192
+"Strathmore, Alberta",Three bedroom units,1230
+"Sylvan Lake, Alberta",Bachelor units,
+"Sylvan Lake, Alberta",One bedroom units,988
+"Sylvan Lake, Alberta",Two bedroom units,1078
+"Sylvan Lake, Alberta",Three bedroom units,1200
+"Wetaskiwin, Alberta",Bachelor units,870
+"Wetaskiwin, Alberta",One bedroom units,856
+"Wetaskiwin, Alberta",Two bedroom units,1068
+"Wetaskiwin, Alberta",Three bedroom units,1351
+"Wetaskiwin County No. 10, Alberta",Bachelor units,
+"Wetaskiwin County No. 10, Alberta",One bedroom units,
+"Wetaskiwin County No. 10, Alberta",Two bedroom units,
+"Wetaskiwin County No. 10, Alberta",Three bedroom units,
+"Wood Buffalo, Alberta",Bachelor units,950
+"Wood Buffalo, Alberta",One bedroom units,1101
+"Wood Buffalo, Alberta",Two bedroom units,1311
+"Wood Buffalo, Alberta",Three bedroom units,1888
+"Yellowhead County, Alberta",Bachelor units,
+"Yellowhead County, Alberta",One bedroom units,
+"Yellowhead County, Alberta",Two bedroom units,
+"Yellowhead County, Alberta",Three bedroom units,
+"Abbotsford-Mission, British Columbia",Bachelor units,934
+"Abbotsford-Mission, British Columbia",One bedroom units,1132
+"Abbotsford-Mission, British Columbia",Two bedroom units,1389
+"Abbotsford-Mission, British Columbia",Three bedroom units,1919
+"Campbell River, British Columbia",Bachelor units,1052
+"Campbell River, British Columbia",One bedroom units,1154
+"Campbell River, British Columbia",Two bedroom units,1338
+"Campbell River, British Columbia",Three bedroom units,1656
+"Chilliwack, British Columbia",Bachelor units,864
+"Chilliwack, British Columbia",One bedroom units,1017
+"Chilliwack, British Columbia",Two bedroom units,1311
+"Chilliwack, British Columbia",Three bedroom units,1713
+"Courtenay, British Columbia",Bachelor units,999
+"Courtenay, British Columbia",One bedroom units,1233
+"Courtenay, British Columbia",Two bedroom units,1367
+"Courtenay, British Columbia",Three bedroom units,1293
+"Cranbrook, British Columbia",Bachelor units,757
+"Cranbrook, British Columbia",One bedroom units,843
+"Cranbrook, British Columbia",Two bedroom units,1104
+"Cranbrook, British Columbia",Three bedroom units,1284
+"Dawson Creek, British Columbia",Bachelor units,667
+"Dawson Creek, British Columbia",One bedroom units,825
+"Dawson Creek, British Columbia",Two bedroom units,1065
+"Dawson Creek, British Columbia",Three bedroom units,1260
+"Duncan, British Columbia",Bachelor units,781
+"Duncan, British Columbia",One bedroom units,980
+"Duncan, British Columbia",Two bedroom units,1151
+"Duncan, British Columbia",Three bedroom units,1428
+"Fort St. John, British Columbia",Bachelor units,667
+"Fort St. John, British Columbia",One bedroom units,775
+"Fort St. John, British Columbia",Two bedroom units,1065
+"Fort St. John, British Columbia",Three bedroom units,1220
+"Kamloops, British Columbia",Bachelor units,1077
+"Kamloops, British Columbia",One bedroom units,1164
+"Kamloops, British Columbia",Two bedroom units,1395
+"Kamloops, British Columbia",Three bedroom units,1560
+"Kelowna, British Columbia",Bachelor units,1106
+"Kelowna, British Columbia",One bedroom units,1307
+"Kelowna, British Columbia",Two bedroom units,1665
+"Kelowna, British Columbia",Three bedroom units,2193
+"Nanaimo, British Columbia",Bachelor units,1078
+"Nanaimo, British Columbia",One bedroom units,1230
+"Nanaimo, British Columbia",Two bedroom units,1531
+"Nanaimo, British Columbia",Three bedroom units,1584
+"Parksville, British Columbia",Bachelor units,983
+"Parksville, British Columbia",One bedroom units,1284
+"Parksville, British Columbia",Two bedroom units,1393
+"Parksville, British Columbia",Three bedroom units,1805
+"Penticton, British Columbia",Bachelor units,779
+"Penticton, British Columbia",One bedroom units,1036
+"Penticton, British Columbia",Two bedroom units,1355
+"Penticton, British Columbia",Three bedroom units,1913
+"Port Alberni, British Columbia",Bachelor units,690
+"Port Alberni, British Columbia",One bedroom units,818
+"Port Alberni, British Columbia",Two bedroom units,1041
+"Port Alberni, British Columbia",Three bedroom units,1360
+"Powell River, British Columbia",Bachelor units,
+"Powell River, British Columbia",One bedroom units,825
+"Powell River, British Columbia",Two bedroom units,926
+"Powell River, British Columbia",Three bedroom units,1012
+"Prince George, British Columbia",Bachelor units,732
+"Prince George, British Columbia",One bedroom units,937
+"Prince George, British Columbia",Two bedroom units,1124
+"Prince George, British Columbia",Three bedroom units,1116
+"Prince Rupert, British Columbia",Bachelor units,788
+"Prince Rupert, British Columbia",One bedroom units,957
+"Prince Rupert, British Columbia",Two bedroom units,1070
+"Prince Rupert, British Columbia",Three bedroom units,1076
+"Quesnel, British Columbia",Bachelor units,
+"Quesnel, British Columbia",One bedroom units,651
+"Quesnel, British Columbia",Two bedroom units,830
+"Quesnel, British Columbia",Three bedroom units,871
+"Salmon Arm, British Columbia",Bachelor units,
+"Salmon Arm, British Columbia",One bedroom units,951
+"Salmon Arm, British Columbia",Two bedroom units,1155
+"Salmon Arm, British Columbia",Three bedroom units,
+"Squamish, British Columbia",Bachelor units,1065
+"Squamish, British Columbia",One bedroom units,1421
+"Squamish, British Columbia",Two bedroom units,1930
+"Squamish, British Columbia",Three bedroom units,1974
+"Summerland, British Columbia",Bachelor units,
+"Summerland, British Columbia",One bedroom units,1182
+"Summerland, British Columbia",Two bedroom units,1419
+"Summerland, British Columbia",Three bedroom units,
+"Terrace, British Columbia",Bachelor units,
+"Terrace, British Columbia",One bedroom units,1008
+"Terrace, British Columbia",Two bedroom units,1162
+"Terrace, British Columbia",Three bedroom units,
+"Vancouver, British Columbia",Bachelor units,1378
+"Vancouver, British Columbia",One bedroom units,1543
+"Vancouver, British Columbia",Two bedroom units,2009
+"Vancouver, British Columbia",Three bedroom units,2441
+"Vernon, British Columbia",Bachelor units,640
+"Vernon, British Columbia",One bedroom units,992
+"Vernon, British Columbia",Two bedroom units,1333
+"Vernon, British Columbia",Three bedroom units,1244
+"Victoria, British Columbia",Bachelor units,1137
+"Victoria, British Columbia",One bedroom units,1341
+"Victoria, British Columbia",Two bedroom units,1701
+"Victoria, British Columbia",Three bedroom units,2144
+"Williams Lake, British Columbia",Bachelor units,
+"Williams Lake, British Columbia",One bedroom units,805
+"Williams Lake, British Columbia",Two bedroom units,970
+"Williams Lake, British Columbia",Three bedroom units,1325

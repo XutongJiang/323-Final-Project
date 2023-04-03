@@ -1,0 +1,511 @@
+﻿Province,Occupation,Vacancy,Wage
+Newfoundland and Labrador,Management occupations  [0],275,33.3
+Newfoundland and Labrador,Senior management occupations  [00],,
+Newfoundland and Labrador,Specialized middle management occupations  [01-05],125,37.75
+Newfoundland and Labrador,Middle management occupations in retail and wholesale trade and customer services  [06],95,20.55
+Newfoundland and Labrador,"Middle management occupations in trades, transportation, production and utilities  [07-09]",40,36.8
+Newfoundland and Labrador,"Business, finance and administration occupations  [1]",595,23.25
+Newfoundland and Labrador,Professional occupations in business and finance  [11],175,27.9
+Newfoundland and Labrador,Administrative and financial supervisors and administrative occupations  [12],,
+Newfoundland and Labrador,"Finance, insurance and related business administrative occupations  [13]",,
+Newfoundland and Labrador,Office support occupations  [14],,
+Newfoundland and Labrador,"Distribution, tracking and scheduling co-ordination occupations  [15]",,
+Newfoundland and Labrador,Natural and applied sciences and related occupations  [2],295,35
+Newfoundland and Labrador,Professional occupations in natural and applied sciences  [21],165,37.95
+Newfoundland and Labrador,Technical occupations related to natural and applied sciences  [22],135,31.35
+Newfoundland and Labrador,Health occupations  [3],"1,480",27.45
+Newfoundland and Labrador,Professional occupations in nursing  [30],,27.65
+Newfoundland and Labrador,Professional occupations in health (except nursing)  [31],85,41.2
+Newfoundland and Labrador,Technical occupations in health  [32],530,27.85
+Newfoundland and Labrador,Assisting occupations in support of health services  [34],275,22.05
+Newfoundland and Labrador,"Occupations in education, law and social, community and government services  [4]",710,20.65
+Newfoundland and Labrador,Professional occupations in education services  [40],30,30.45
+Newfoundland and Labrador,"Professional occupations in law and social, community and government services  [41]",145,27.4
+Newfoundland and Labrador,"Paraprofessional occupations in legal, social, community and education services  [42]",245,18.85
+Newfoundland and Labrador,Occupations in front-line public protection services  [43],,
+Newfoundland and Labrador,"Care providers and educational, legal and public protection support occupations  [44]",280,17.3
+Newfoundland and Labrador,"Occupations in art, culture, recreation and sport  [5]",,28.4
+Newfoundland and Labrador,Professional occupations in art and culture  [51],,32.25
+Newfoundland and Labrador,"Technical occupations in art, culture, recreation and sport  [52]",,26.2
+Newfoundland and Labrador,Sales and service occupations  [6],"2,290",15.6
+Newfoundland and Labrador,Retail sales supervisors and specialized sales occupations  [62],70,23.95
+Newfoundland and Labrador,Service supervisors and specialized service occupations  [63],410,15.8
+Newfoundland and Labrador,Sales representatives and salespersons - wholesale and retail trade  [64],275,15.3
+Newfoundland and Labrador,Service representatives and other customer and personal services occupations  [65],415,16.6
+Newfoundland and Labrador,Sales support occupations  [66],350,13.3
+Newfoundland and Labrador,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]",770,15.3
+Newfoundland and Labrador,"Trades, transport and equipment operators and related occupations  [7]",965,25.25
+Newfoundland and Labrador,"Industrial, electrical and construction trades  [72]",,
+Newfoundland and Labrador,Maintenance and equipment operation trades  [73],105,32.25
+Newfoundland and Labrador,"Other installers, repairers and servicers and material handlers  [74]",,
+Newfoundland and Labrador,Transport and heavy equipment operation and related maintenance occupations  [75],140,24.1
+Newfoundland and Labrador,"Trades helpers, construction labourers and related occupations  [76]",155,19.45
+Newfoundland and Labrador,"Natural resources, agriculture and related production occupations  [8]",70,25.95
+Newfoundland and Labrador,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",,
+Newfoundland and Labrador,"Workers in natural resources, agriculture and related production  [84]",,
+Newfoundland and Labrador,"Harvesting, landscaping and natural resources labourers  [86]",,
+Newfoundland and Labrador,Occupations in manufacturing and utilities  [9],130,21.4
+Newfoundland and Labrador,"Processing, manufacturing and utilities supervisors and central control operators  [92]",,
+Newfoundland and Labrador,Processing and manufacturing machine operators and related production workers  [94],,22.3
+Newfoundland and Labrador,Assemblers in manufacturing  [95],,
+Newfoundland and Labrador,"Labourers in processing, manufacturing and utilities  [96]",,
+Newfoundland and Labrador,Unclassified occupations 7,,
+Prince Edward Island,Management occupations  [0],90,25.75
+Prince Edward Island,Senior management occupations  [00],..,..
+Prince Edward Island,Specialized middle management occupations  [01-05],25,42
+Prince Edward Island,Middle management occupations in retail and wholesale trade and customer services  [06],,17.25
+Prince Edward Island,"Middle management occupations in trades, transportation, production and utilities  [07-09]",,20.85
+Prince Edward Island,"Business, finance and administration occupations  [1]",270,20.7
+Prince Edward Island,Professional occupations in business and finance  [11],,
+Prince Edward Island,Administrative and financial supervisors and administrative occupations  [12],105,21
+Prince Edward Island,"Finance, insurance and related business administrative occupations  [13]",,
+Prince Edward Island,Office support occupations  [14],,
+Prince Edward Island,"Distribution, tracking and scheduling co-ordination occupations  [15]",,
+Prince Edward Island,Natural and applied sciences and related occupations  [2],100,26.45
+Prince Edward Island,Professional occupations in natural and applied sciences  [21],35,33.65
+Prince Edward Island,Technical occupations related to natural and applied sciences  [22],65,22.35
+Prince Edward Island,Health occupations  [3],560,29.4
+Prince Edward Island,Professional occupations in nursing  [30],,
+Prince Edward Island,Professional occupations in health (except nursing)  [31],,
+Prince Edward Island,Technical occupations in health  [32],,
+Prince Edward Island,Assisting occupations in support of health services  [34],170,21.8
+Prince Edward Island,"Occupations in education, law and social, community and government services  [4]",250,24.45
+Prince Edward Island,Professional occupations in education services  [40],,
+Prince Edward Island,"Professional occupations in law and social, community and government services  [41]",40,30.2
+Prince Edward Island,"Paraprofessional occupations in legal, social, community and education services  [42]",,
+Prince Edward Island,Occupations in front-line public protection services  [43],..,..
+Prince Edward Island,"Care providers and educational, legal and public protection support occupations  [44]",35,21.35
+Prince Edward Island,"Occupations in art, culture, recreation and sport  [5]",,20.25
+Prince Edward Island,Professional occupations in art and culture  [51],,
+Prince Edward Island,"Technical occupations in art, culture, recreation and sport  [52]",,
+Prince Edward Island,Sales and service occupations  [6],825,15.2
+Prince Edward Island,Retail sales supervisors and specialized sales occupations  [62],25,24.2
+Prince Edward Island,Service supervisors and specialized service occupations  [63],,16.9
+Prince Edward Island,Sales representatives and salespersons - wholesale and retail trade  [64],,13.9
+Prince Edward Island,Service representatives and other customer and personal services occupations  [65],200,15.35
+Prince Edward Island,Sales support occupations  [66],130,13.5
+Prince Edward Island,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]",,15.3
+Prince Edward Island,"Trades, transport and equipment operators and related occupations  [7]",795,20.3
+Prince Edward Island,"Industrial, electrical and construction trades  [72]",175,23.6
+Prince Edward Island,Maintenance and equipment operation trades  [73],55,22.3
+Prince Edward Island,"Other installers, repairers and servicers and material handlers  [74]",,
+Prince Edward Island,Transport and heavy equipment operation and related maintenance occupations  [75],195,21.5
+Prince Edward Island,"Trades helpers, construction labourers and related occupations  [76]",,
+Prince Edward Island,"Natural resources, agriculture and related production occupations  [8]",130,16.75
+Prince Edward Island,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",..,..
+Prince Edward Island,"Workers in natural resources, agriculture and related production  [84]",90,15.9
+Prince Edward Island,"Harvesting, landscaping and natural resources labourers  [86]",,
+Prince Edward Island,Occupations in manufacturing and utilities  [9],320,16.15
+Prince Edward Island,"Processing, manufacturing and utilities supervisors and central control operators  [92]",20,24.05
+Prince Edward Island,Processing and manufacturing machine operators and related production workers  [94],235,15.6
+Prince Edward Island,Assemblers in manufacturing  [95],,
+Prince Edward Island,"Labourers in processing, manufacturing and utilities  [96]",,
+Prince Edward Island,Unclassified occupations 7,..,..
+Nova Scotia,Management occupations  [0],780,31
+Nova Scotia,Senior management occupations  [00],,59.85
+Nova Scotia,Specialized middle management occupations  [01-05],400,36.7
+Nova Scotia,Middle management occupations in retail and wholesale trade and customer services  [06],260,19.3
+Nova Scotia,"Middle management occupations in trades, transportation, production and utilities  [07-09]",95,31.15
+Nova Scotia,"Business, finance and administration occupations  [1]","2,045",22.7
+Nova Scotia,Professional occupations in business and finance  [11],380,30.95
+Nova Scotia,Administrative and financial supervisors and administrative occupations  [12],515,22.85
+Nova Scotia,"Finance, insurance and related business administrative occupations  [13]",,21.3
+Nova Scotia,Office support occupations  [14],635,20.75
+Nova Scotia,"Distribution, tracking and scheduling co-ordination occupations  [15]",450,18.55
+Nova Scotia,Natural and applied sciences and related occupations  [2],870,33.2
+Nova Scotia,Professional occupations in natural and applied sciences  [21],520,38.75
+Nova Scotia,Technical occupations related to natural and applied sciences  [22],345,24.85
+Nova Scotia,Health occupations  [3],"3,165",29.55
+Nova Scotia,Professional occupations in nursing  [30],880,35.35
+Nova Scotia,Professional occupations in health (except nursing)  [31],250,52.85
+Nova Scotia,Technical occupations in health  [32],850,27.65
+Nova Scotia,Assisting occupations in support of health services  [34],"1,180",21.65
+Nova Scotia,"Occupations in education, law and social, community and government services  [4]","2,170",23.7
+Nova Scotia,Professional occupations in education services  [40],,
+Nova Scotia,"Professional occupations in law and social, community and government services  [41]",615,30.25
+Nova Scotia,"Paraprofessional occupations in legal, social, community and education services  [42]",610,19.25
+Nova Scotia,Occupations in front-line public protection services  [43],,
+Nova Scotia,"Care providers and educational, legal and public protection support occupations  [44]",650,19.6
+Nova Scotia,"Occupations in art, culture, recreation and sport  [5]",290,19.75
+Nova Scotia,Professional occupations in art and culture  [51],,
+Nova Scotia,"Technical occupations in art, culture, recreation and sport  [52]",,
+Nova Scotia,Sales and service occupations  [6],"7,520",15.7
+Nova Scotia,Retail sales supervisors and specialized sales occupations  [62],,23.7
+Nova Scotia,Service supervisors and specialized service occupations  [63],"1,055",16.5
+Nova Scotia,Sales representatives and salespersons - wholesale and retail trade  [64],"1,070",15.15
+Nova Scotia,Service representatives and other customer and personal services occupations  [65],"1,400",15.8
+Nova Scotia,Sales support occupations  [66],845,13.1
+Nova Scotia,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","2,685",14.95
+Nova Scotia,"Trades, transport and equipment operators and related occupations  [7]","3,380",22.85
+Nova Scotia,"Industrial, electrical and construction trades  [72]","1,085",23.6
+Nova Scotia,Maintenance and equipment operation trades  [73],555,29.35
+Nova Scotia,"Other installers, repairers and servicers and material handlers  [74]",295,19.85
+Nova Scotia,Transport and heavy equipment operation and related maintenance occupations  [75],830,21.4
+Nova Scotia,"Trades helpers, construction labourers and related occupations  [76]",615,19.1
+Nova Scotia,"Natural resources, agriculture and related production occupations  [8]",460,18.8
+Nova Scotia,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",,
+Nova Scotia,"Workers in natural resources, agriculture and related production  [84]",,
+Nova Scotia,"Harvesting, landscaping and natural resources labourers  [86]",200,17.25
+Nova Scotia,Occupations in manufacturing and utilities  [9],"1,020",19.65
+Nova Scotia,"Processing, manufacturing and utilities supervisors and central control operators  [92]",,
+Nova Scotia,Processing and manufacturing machine operators and related production workers  [94],555,19.1
+Nova Scotia,Assemblers in manufacturing  [95],,
+Nova Scotia,"Labourers in processing, manufacturing and utilities  [96]",255,17.85
+Nova Scotia,Unclassified occupations 7,,
+New Brunswick,Management occupations  [0],,
+New Brunswick,Senior management occupations  [00],,
+New Brunswick,Specialized middle management occupations  [01-05],240,37.4
+New Brunswick,Middle management occupations in retail and wholesale trade and customer services  [06],130,20.05
+New Brunswick,"Middle management occupations in trades, transportation, production and utilities  [07-09]",,
+New Brunswick,"Business, finance and administration occupations  [1]","1,370",23.1
+New Brunswick,Professional occupations in business and finance  [11],210,30.95
+New Brunswick,Administrative and financial supervisors and administrative occupations  [12],405,22
+New Brunswick,"Finance, insurance and related business administrative occupations  [13]",,
+New Brunswick,Office support occupations  [14],325,22
+New Brunswick,"Distribution, tracking and scheduling co-ordination occupations  [15]",355,20.15
+New Brunswick,Natural and applied sciences and related occupations  [2],580,31.75
+New Brunswick,Professional occupations in natural and applied sciences  [21],290,39.8
+New Brunswick,Technical occupations related to natural and applied sciences  [22],295,23.85
+New Brunswick,Health occupations  [3],"1,725",27.45
+New Brunswick,Professional occupations in nursing  [30],350,38.1
+New Brunswick,Professional occupations in health (except nursing)  [31],110,45.85
+New Brunswick,Technical occupations in health  [32],600,26.35
+New Brunswick,Assisting occupations in support of health services  [34],660,19.65
+New Brunswick,"Occupations in education, law and social, community and government services  [4]",910,21.55
+New Brunswick,Professional occupations in education services  [40],25,22.75
+New Brunswick,"Professional occupations in law and social, community and government services  [41]",195,30.4
+New Brunswick,"Paraprofessional occupations in legal, social, community and education services  [42]",465,19.05
+New Brunswick,Occupations in front-line public protection services  [43],20,32
+New Brunswick,"Care providers and educational, legal and public protection support occupations  [44]",205,17.7
+New Brunswick,"Occupations in art, culture, recreation and sport  [5]",105,22.6
+New Brunswick,Professional occupations in art and culture  [51],,28.3
+New Brunswick,"Technical occupations in art, culture, recreation and sport  [52]",80,20.75
+New Brunswick,Sales and service occupations  [6],"5,115",15.5
+New Brunswick,Retail sales supervisors and specialized sales occupations  [62],190,28.15
+New Brunswick,Service supervisors and specialized service occupations  [63],765,16.05
+New Brunswick,Sales representatives and salespersons - wholesale and retail trade  [64],575,15.85
+New Brunswick,Service representatives and other customer and personal services occupations  [65],"1,065",15.95
+New Brunswick,Sales support occupations  [66],850,12.6
+New Brunswick,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","1,665",14.85
+New Brunswick,"Trades, transport and equipment operators and related occupations  [7]","2,185",22.8
+New Brunswick,"Industrial, electrical and construction trades  [72]",730,25
+New Brunswick,Maintenance and equipment operation trades  [73],395,24.25
+New Brunswick,"Other installers, repairers and servicers and material handlers  [74]",195,18.55
+New Brunswick,Transport and heavy equipment operation and related maintenance occupations  [75],565,22.7
+New Brunswick,"Trades helpers, construction labourers and related occupations  [76]",300,18.25
+New Brunswick,"Natural resources, agriculture and related production occupations  [8]",375,18.6
+New Brunswick,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",,
+New Brunswick,"Workers in natural resources, agriculture and related production  [84]",275,19.05
+New Brunswick,"Harvesting, landscaping and natural resources labourers  [86]",,
+New Brunswick,Occupations in manufacturing and utilities  [9],"1,010",17.45
+New Brunswick,"Processing, manufacturing and utilities supervisors and central control operators  [92]",,
+New Brunswick,Processing and manufacturing machine operators and related production workers  [94],540,16.65
+New Brunswick,Assemblers in manufacturing  [95],195,18.1
+New Brunswick,"Labourers in processing, manufacturing and utilities  [96]",,
+New Brunswick,Unclassified occupations 7,,
+Quebec,Management occupations  [0],"8,940",34.8
+Quebec,Senior management occupations  [00],165,58.1
+Quebec,Specialized middle management occupations  [01-05],"3,540",45.4
+Quebec,Middle management occupations in retail and wholesale trade and customer services  [06],"3,995",23.3
+Quebec,"Middle management occupations in trades, transportation, production and utilities  [07-09]","1,240",38.6
+Quebec,"Business, finance and administration occupations  [1]","23,790",25.75
+Quebec,Professional occupations in business and finance  [11],"6,150",33
+Quebec,Administrative and financial supervisors and administrative occupations  [12],"7,890",25.1
+Quebec,"Finance, insurance and related business administrative occupations  [13]","1,520",26.7
+Quebec,Office support occupations  [14],"4,505",21.35
+Quebec,"Distribution, tracking and scheduling co-ordination occupations  [15]","3,725",20.2
+Quebec,Natural and applied sciences and related occupations  [2],"15,875",34
+Quebec,Professional occupations in natural and applied sciences  [21],"9,505",37.65
+Quebec,Technical occupations related to natural and applied sciences  [22],"6,370",28.55
+Quebec,Health occupations  [3],"28,275",26.8
+Quebec,Professional occupations in nursing  [30],"9,200",28.75
+Quebec,Professional occupations in health (except nursing)  [31],"2,855",35.65
+Quebec,Technical occupations in health  [32],"7,675",25.6
+Quebec,Assisting occupations in support of health services  [34],"8,540",22.9
+Quebec,"Occupations in education, law and social, community and government services  [4]","13,735",26.5
+Quebec,Professional occupations in education services  [40],"1,325",33.65
+Quebec,"Professional occupations in law and social, community and government services  [41]","4,960",30.7
+Quebec,"Paraprofessional occupations in legal, social, community and education services  [42]","5,820",22.55
+Quebec,Occupations in front-line public protection services  [43],220,26.05
+Quebec,"Care providers and educational, legal and public protection support occupations  [44]","1,410",21.25
+Quebec,"Occupations in art, culture, recreation and sport  [5]","3,620",26.65
+Quebec,Professional occupations in art and culture  [51],615,34.8
+Quebec,"Technical occupations in art, culture, recreation and sport  [52]","3,005",25
+Quebec,Sales and service occupations  [6],"63,445",17.55
+Quebec,Retail sales supervisors and specialized sales occupations  [62],"3,770",26.35
+Quebec,Service supervisors and specialized service occupations  [63],"8,275",18.65
+Quebec,Sales representatives and salespersons - wholesale and retail trade  [64],"12,200",16.75
+Quebec,Service representatives and other customer and personal services occupations  [65],"10,565",17.4
+Quebec,Sales support occupations  [66],"6,515",15
+Quebec,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","22,120",16.95
+Quebec,"Trades, transport and equipment operators and related occupations  [7]","33,430",25.3
+Quebec,"Industrial, electrical and construction trades  [72]","10,280",29.15
+Quebec,Maintenance and equipment operation trades  [73],"7,625",26.6
+Quebec,"Other installers, repairers and servicers and material handlers  [74]","4,445",19.35
+Quebec,Transport and heavy equipment operation and related maintenance occupations  [75],"7,920",22.6
+Quebec,"Trades helpers, construction labourers and related occupations  [76]","3,155",25.05
+Quebec,"Natural resources, agriculture and related production occupations  [8]","2,155",19.95
+Quebec,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",330,28.1
+Quebec,"Workers in natural resources, agriculture and related production  [84]","1,250",17.85
+Quebec,"Harvesting, landscaping and natural resources labourers  [86]",570,19.8
+Quebec,Occupations in manufacturing and utilities  [9],"15,400",20.8
+Quebec,"Processing, manufacturing and utilities supervisors and central control operators  [92]",775,31
+Quebec,Processing and manufacturing machine operators and related production workers  [94],"5,805",21.15
+Quebec,Assemblers in manufacturing  [95],"3,110",20.25
+Quebec,"Labourers in processing, manufacturing and utilities  [96]","5,705",19.4
+Quebec,Unclassified occupations 7,,
+Ontario,Management occupations  [0],"17,450",42.3
+Ontario,Senior management occupations  [00],625,78.35
+Ontario,Specialized middle management occupations  [01-05],"9,720",48.75
+Ontario,Middle management occupations in retail and wholesale trade and customer services  [06],"4,825",25.4
+Ontario,"Middle management occupations in trades, transportation, production and utilities  [07-09]","2,285",40.8
+Ontario,"Business, finance and administration occupations  [1]","40,910",26.95
+Ontario,Professional occupations in business and finance  [11],"13,000",33.85
+Ontario,Administrative and financial supervisors and administrative occupations  [12],"8,695",26.5
+Ontario,"Finance, insurance and related business administrative occupations  [13]","1,660",27.05
+Ontario,Office support occupations  [14],"10,335",21.45
+Ontario,"Distribution, tracking and scheduling co-ordination occupations  [15]","7,215",22.9
+Ontario,Natural and applied sciences and related occupations  [2],"25,030",39.4
+Ontario,Professional occupations in natural and applied sciences  [21],"17,740",43.3
+Ontario,Technical occupations related to natural and applied sciences  [22],"7,290",29.85
+Ontario,Health occupations  [3],"35,455",30.9
+Ontario,Professional occupations in nursing  [30],"10,395",35.2
+Ontario,Professional occupations in health (except nursing)  [31],"3,475",49.3
+Ontario,Technical occupations in health  [32],"11,420",29.25
+Ontario,Assisting occupations in support of health services  [34],"10,165",22.05
+Ontario,"Occupations in education, law and social, community and government services  [4]","24,260",27.05
+Ontario,Professional occupations in education services  [40],"4,035",31.25
+Ontario,"Professional occupations in law and social, community and government services  [41]","5,510",35.25
+Ontario,"Paraprofessional occupations in legal, social, community and education services  [42]","9,960",23.05
+Ontario,Occupations in front-line public protection services  [43],635,30.25
+Ontario,"Care providers and educational, legal and public protection support occupations  [44]","4,115",21.1
+Ontario,"Occupations in art, culture, recreation and sport  [5]","5,800",23.6
+Ontario,Professional occupations in art and culture  [51],665,34.6
+Ontario,"Technical occupations in art, culture, recreation and sport  [52]","5,135",22.15
+Ontario,Sales and service occupations  [6],"106,155",17.75
+Ontario,Retail sales supervisors and specialized sales occupations  [62],"5,570",24.7
+Ontario,Service supervisors and specialized service occupations  [63],"12,140",19
+Ontario,Sales representatives and salespersons - wholesale and retail trade  [64],"24,460",17.45
+Ontario,Service representatives and other customer and personal services occupations  [65],"20,055",17.95
+Ontario,Sales support occupations  [66],"10,790",15.65
+Ontario,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","33,135",16.9
+Ontario,"Trades, transport and equipment operators and related occupations  [7]","48,120",25.8
+Ontario,"Industrial, electrical and construction trades  [72]","14,155",29.1
+Ontario,Maintenance and equipment operation trades  [73],"8,790",30.2
+Ontario,"Other installers, repairers and servicers and material handlers  [74]","7,745",20.15
+Ontario,Transport and heavy equipment operation and related maintenance occupations  [75],"10,965",24.1
+Ontario,"Trades helpers, construction labourers and related occupations  [76]","6,460",22.25
+Ontario,"Natural resources, agriculture and related production occupations  [8]","5,160",20.35
+Ontario,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",670,31.1
+Ontario,"Workers in natural resources, agriculture and related production  [84]","1,840",17.05
+Ontario,"Harvesting, landscaping and natural resources labourers  [86]","2,650",19.9
+Ontario,Occupations in manufacturing and utilities  [9],"14,610",20.45
+Ontario,"Processing, manufacturing and utilities supervisors and central control operators  [92]",895,29.9
+Ontario,Processing and manufacturing machine operators and related production workers  [94],"5,185",20.75
+Ontario,Assemblers in manufacturing  [95],"4,750",19.9
+Ontario,"Labourers in processing, manufacturing and utilities  [96]","3,780",18.45
+Ontario,Unclassified occupations 7,,
+Manitoba,Management occupations  [0],935,36.6
+Manitoba,Senior management occupations  [00],15,64.35
+Manitoba,Specialized middle management occupations  [01-05],425,42.25
+Manitoba,Middle management occupations in retail and wholesale trade and customer services  [06],355,29.35
+Manitoba,"Middle management occupations in trades, transportation, production and utilities  [07-09]",140,35.15
+Manitoba,"Business, finance and administration occupations  [1]","3,310",22.35
+Manitoba,Professional occupations in business and finance  [11],525,30.5
+Manitoba,Administrative and financial supervisors and administrative occupations  [12],850,21.65
+Manitoba,"Finance, insurance and related business administrative occupations  [13]",270,21.95
+Manitoba,Office support occupations  [14],845,19.9
+Manitoba,"Distribution, tracking and scheduling co-ordination occupations  [15]",820,20.45
+Manitoba,Natural and applied sciences and related occupations  [2],835,32.35
+Manitoba,Professional occupations in natural and applied sciences  [21],555,34.8
+Manitoba,Technical occupations related to natural and applied sciences  [22],280,27.45
+Manitoba,Health occupations  [3],"3,945",29.6
+Manitoba,Professional occupations in nursing  [30],"1,230",37.35
+Manitoba,Professional occupations in health (except nursing)  [31],275,43.6
+Manitoba,Technical occupations in health  [32],"1,215",30.55
+Manitoba,Assisting occupations in support of health services  [34],"1,220",17.65
+Manitoba,"Occupations in education, law and social, community and government services  [4]","2,790",20.45
+Manitoba,Professional occupations in education services  [40],335,31.8
+Manitoba,"Professional occupations in law and social, community and government services  [41]",265,29.15
+Manitoba,"Paraprofessional occupations in legal, social, community and education services  [42]","1,170",17.3
+Manitoba,Occupations in front-line public protection services  [43],,
+Manitoba,"Care providers and educational, legal and public protection support occupations  [44]","1,020",18.15
+Manitoba,"Occupations in art, culture, recreation and sport  [5]",365,18.35
+Manitoba,Professional occupations in art and culture  [51],,24.45
+Manitoba,"Technical occupations in art, culture, recreation and sport  [52]",310,17.25
+Manitoba,Sales and service occupations  [6],"7,740",15.6
+Manitoba,Retail sales supervisors and specialized sales occupations  [62],450,22.55
+Manitoba,Service supervisors and specialized service occupations  [63],"1,225",15.95
+Manitoba,Sales representatives and salespersons - wholesale and retail trade  [64],865,15.8
+Manitoba,Service representatives and other customer and personal services occupations  [65],"1,835",15.75
+Manitoba,Sales support occupations  [66],780,13.35
+Manitoba,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","2,585",14.75
+Manitoba,"Trades, transport and equipment operators and related occupations  [7]","4,280",23.35
+Manitoba,"Industrial, electrical and construction trades  [72]",840,26.6
+Manitoba,Maintenance and equipment operation trades  [73],680,27.8
+Manitoba,"Other installers, repairers and servicers and material handlers  [74]",480,20
+Manitoba,Transport and heavy equipment operation and related maintenance occupations  [75],"1,695",22.4
+Manitoba,"Trades helpers, construction labourers and related occupations  [76]",585,19.05
+Manitoba,"Natural resources, agriculture and related production occupations  [8]",645,18.3
+Manitoba,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",,20.75
+Manitoba,"Workers in natural resources, agriculture and related production  [84]",375,17.8
+Manitoba,"Harvesting, landscaping and natural resources labourers  [86]",,17.8
+Manitoba,Occupations in manufacturing and utilities  [9],995,19.4
+Manitoba,"Processing, manufacturing and utilities supervisors and central control operators  [92]",80,29.7
+Manitoba,Processing and manufacturing machine operators and related production workers  [94],485,19.3
+Manitoba,Assemblers in manufacturing  [95],225,18.1
+Manitoba,"Labourers in processing, manufacturing and utilities  [96]",200,16.85
+Manitoba,Unclassified occupations 7,,
+Saskatchewan,Management occupations  [0],,
+Saskatchewan,Senior management occupations  [00],,
+Saskatchewan,Specialized middle management occupations  [01-05],365,47.8
+Saskatchewan,Middle management occupations in retail and wholesale trade and customer services  [06],585,24.55
+Saskatchewan,"Middle management occupations in trades, transportation, production and utilities  [07-09]",110,37.05
+Saskatchewan,"Business, finance and administration occupations  [1]","1,970",24
+Saskatchewan,Professional occupations in business and finance  [11],355,30
+Saskatchewan,Administrative and financial supervisors and administrative occupations  [12],655,24.9
+Saskatchewan,"Finance, insurance and related business administrative occupations  [13]",185,23.55
+Saskatchewan,Office support occupations  [14],405,20.6
+Saskatchewan,"Distribution, tracking and scheduling co-ordination occupations  [15]",375,20.75
+Saskatchewan,Natural and applied sciences and related occupations  [2],800,34.8
+Saskatchewan,Professional occupations in natural and applied sciences  [21],495,38.35
+Saskatchewan,Technical occupations related to natural and applied sciences  [22],305,28.95
+Saskatchewan,Health occupations  [3],"1,965",31.7
+Saskatchewan,Professional occupations in nursing  [30],,
+Saskatchewan,Professional occupations in health (except nursing)  [31],,
+Saskatchewan,Technical occupations in health  [32],,32.4
+Saskatchewan,Assisting occupations in support of health services  [34],520,21.5
+Saskatchewan,"Occupations in education, law and social, community and government services  [4]","1,675",24.5
+Saskatchewan,Professional occupations in education services  [40],325,36.1
+Saskatchewan,"Professional occupations in law and social, community and government services  [41]",275,32.8
+Saskatchewan,"Paraprofessional occupations in legal, social, community and education services  [42]",750,18.95
+Saskatchewan,Occupations in front-line public protection services  [43],,21.55
+Saskatchewan,"Care providers and educational, legal and public protection support occupations  [44]",270,18.15
+Saskatchewan,"Occupations in art, culture, recreation and sport  [5]",330,18.7
+Saskatchewan,Professional occupations in art and culture  [51],,24.7
+Saskatchewan,"Technical occupations in art, culture, recreation and sport  [52]",300,18.1
+Saskatchewan,Sales and service occupations  [6],"9,965",15
+Saskatchewan,Retail sales supervisors and specialized sales occupations  [62],485,20.4
+Saskatchewan,Service supervisors and specialized service occupations  [63],"2,305",15.65
+Saskatchewan,Sales representatives and salespersons - wholesale and retail trade  [64],"1,275",15.2
+Saskatchewan,Service representatives and other customer and personal services occupations  [65],"1,400",15.5
+Saskatchewan,Sales support occupations  [66],"1,090",13.75
+Saskatchewan,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","3,410",13.95
+Saskatchewan,"Trades, transport and equipment operators and related occupations  [7]","4,230",26.35
+Saskatchewan,"Industrial, electrical and construction trades  [72]","1,380",26.3
+Saskatchewan,Maintenance and equipment operation trades  [73],935,31.5
+Saskatchewan,"Other installers, repairers and servicers and material handlers  [74]",305,19.4
+Saskatchewan,Transport and heavy equipment operation and related maintenance occupations  [75],"1,110",26.15
+Saskatchewan,"Trades helpers, construction labourers and related occupations  [76]",500,21.35
+Saskatchewan,"Natural resources, agriculture and related production occupations  [8]",825,24.5
+Saskatchewan,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",120,36.1
+Saskatchewan,"Workers in natural resources, agriculture and related production  [84]",475,22.6
+Saskatchewan,"Harvesting, landscaping and natural resources labourers  [86]",235,22.45
+Saskatchewan,Occupations in manufacturing and utilities  [9],560,20.8
+Saskatchewan,"Processing, manufacturing and utilities supervisors and central control operators  [92]",100,31.4
+Saskatchewan,Processing and manufacturing machine operators and related production workers  [94],160,19.55
+Saskatchewan,Assemblers in manufacturing  [95],130,20.4
+Saskatchewan,"Labourers in processing, manufacturing and utilities  [96]",175,16.35
+Saskatchewan,Unclassified occupations 7,,
+Alberta,Management occupations  [0],"4,210",39.25
+Alberta,Senior management occupations  [00],,116.2
+Alberta,Specialized middle management occupations  [01-05],"1,680",46.8
+Alberta,Middle management occupations in retail and wholesale trade and customer services  [06],"1,730",24.05
+Alberta,"Middle management occupations in trades, transportation, production and utilities  [07-09]",635,41.1
+Alberta,"Business, finance and administration occupations  [1]","8,575",26.95
+Alberta,Professional occupations in business and finance  [11],"2,135",35.95
+Alberta,Administrative and financial supervisors and administrative occupations  [12],"2,305",27.05
+Alberta,"Finance, insurance and related business administrative occupations  [13]",520,26.6
+Alberta,Office support occupations  [14],"1,750",21.5
+Alberta,"Distribution, tracking and scheduling co-ordination occupations  [15]","1,860",21.7
+Alberta,Natural and applied sciences and related occupations  [2],"4,800",39.7
+Alberta,Professional occupations in natural and applied sciences  [21],"2,745",43.35
+Alberta,Technical occupations related to natural and applied sciences  [22],"2,060",34.8
+Alberta,Health occupations  [3],"5,180",33.6
+Alberta,Professional occupations in nursing  [30],,
+Alberta,Professional occupations in health (except nursing)  [31],850,45.4
+Alberta,Technical occupations in health  [32],"1,640",30.3
+Alberta,Assisting occupations in support of health services  [34],"1,115",21.65
+Alberta,"Occupations in education, law and social, community and government services  [4]","6,335",24.1
+Alberta,Professional occupations in education services  [40],"1,160",32.25
+Alberta,"Professional occupations in law and social, community and government services  [41]","1,005",34.65
+Alberta,"Paraprofessional occupations in legal, social, community and education services  [42]","3,115",19.3
+Alberta,Occupations in front-line public protection services  [43],100,27.15
+Alberta,"Care providers and educational, legal and public protection support occupations  [44]",960,18.65
+Alberta,"Occupations in art, culture, recreation and sport  [5]",985,24.75
+Alberta,Professional occupations in art and culture  [51],175,29.25
+Alberta,"Technical occupations in art, culture, recreation and sport  [52]",810,23.75
+Alberta,Sales and service occupations  [6],"31,390",17.25
+Alberta,Retail sales supervisors and specialized sales occupations  [62],"1,675",25.6
+Alberta,Service supervisors and specialized service occupations  [63],"5,855",17.6
+Alberta,Sales representatives and salespersons - wholesale and retail trade  [64],"5,465",16.9
+Alberta,Service representatives and other customer and personal services occupations  [65],"6,645",17.1
+Alberta,Sales support occupations  [66],"2,875",15.3
+Alberta,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","8,875",16.3
+Alberta,"Trades, transport and equipment operators and related occupations  [7]","25,865",28.55
+Alberta,"Industrial, electrical and construction trades  [72]","8,545",29.4
+Alberta,Maintenance and equipment operation trades  [73],"3,770",35.3
+Alberta,"Other installers, repairers and servicers and material handlers  [74]","1,525",20.95
+Alberta,Transport and heavy equipment operation and related maintenance occupations  [75],"8,750",28.8
+Alberta,"Trades helpers, construction labourers and related occupations  [76]","3,275",21.6
+Alberta,"Natural resources, agriculture and related production occupations  [8]","2,985",26.65
+Alberta,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",790,31.9
+Alberta,"Workers in natural resources, agriculture and related production  [84]","1,015",26.4
+Alberta,"Harvesting, landscaping and natural resources labourers  [86]","1,185",23.35
+Alberta,Occupations in manufacturing and utilities  [9],"2,815",22.7
+Alberta,"Processing, manufacturing and utilities supervisors and central control operators  [92]",350,36
+Alberta,Processing and manufacturing machine operators and related production workers  [94],"1,245",20.25
+Alberta,Assemblers in manufacturing  [95],565,23.45
+Alberta,"Labourers in processing, manufacturing and utilities  [96]",660,19.65
+Alberta,Unclassified occupations 7,,
+British Columbia,Management occupations  [0],"6,535",51.3
+British Columbia,Senior management occupations  [00],,
+British Columbia,Specialized middle management occupations  [01-05],"2,975",45.3
+British Columbia,Middle management occupations in retail and wholesale trade and customer services  [06],"1,750",27.2
+British Columbia,"Middle management occupations in trades, transportation, production and utilities  [07-09]","1,290",40.4
+British Columbia,"Business, finance and administration occupations  [1]","13,595",26.45
+British Columbia,Professional occupations in business and finance  [11],"3,370",32.3
+British Columbia,Administrative and financial supervisors and administrative occupations  [12],"3,610",26.9
+British Columbia,"Finance, insurance and related business administrative occupations  [13]","1,095",28.55
+British Columbia,Office support occupations  [14],"2,800",22.7
+British Columbia,"Distribution, tracking and scheduling co-ordination occupations  [15]","2,720",21.65
+British Columbia,Natural and applied sciences and related occupations  [2],"8,995",39.4
+British Columbia,Professional occupations in natural and applied sciences  [21],"6,075",43.55
+British Columbia,Technical occupations related to natural and applied sciences  [22],"2,920",30.75
+British Columbia,Health occupations  [3],"10,360",32.75
+British Columbia,Professional occupations in nursing  [30],"3,825",36.75
+British Columbia,Professional occupations in health (except nursing)  [31],"1,185",41.3
+British Columbia,Technical occupations in health  [32],"2,730",31.05
+British Columbia,Assisting occupations in support of health services  [34],"2,625",24.9
+British Columbia,"Occupations in education, law and social, community and government services  [4]","10,955",27.1
+British Columbia,Professional occupations in education services  [40],"2,030",33.15
+British Columbia,"Professional occupations in law and social, community and government services  [41]","1,670",36.3
+British Columbia,"Paraprofessional occupations in legal, social, community and education services  [42]","4,735",22.7
+British Columbia,Occupations in front-line public protection services  [43],180,46.35
+British Columbia,"Care providers and educational, legal and public protection support occupations  [44]","2,345",22.85
+British Columbia,"Occupations in art, culture, recreation and sport  [5]","2,815",30.55
+British Columbia,Professional occupations in art and culture  [51],320,31.75
+British Columbia,"Technical occupations in art, culture, recreation and sport  [52]","2,495",30.4
+British Columbia,Sales and service occupations  [6],"44,485",18.5
+British Columbia,Retail sales supervisors and specialized sales occupations  [62],"2,125",23.6
+British Columbia,Service supervisors and specialized service occupations  [63],"7,605",19.5
+British Columbia,Sales representatives and salespersons - wholesale and retail trade  [64],"8,620",17.7
+British Columbia,Service representatives and other customer and personal services occupations  [65],"8,395",18.75
+British Columbia,Sales support occupations  [66],"3,955",15.7
+British Columbia,"Service support and other service occupations, not elsewhere classified (n.e.c.)  [67]","13,785",18.25
+British Columbia,"Trades, transport and equipment operators and related occupations  [7]","26,605",27.95
+British Columbia,"Industrial, electrical and construction trades  [72]","9,485",30.05
+British Columbia,Maintenance and equipment operation trades  [73],"4,280",34.25
+British Columbia,"Other installers, repairers and servicers and material handlers  [74]","2,795",20.8
+British Columbia,Transport and heavy equipment operation and related maintenance occupations  [75],"6,485",26.4
+British Columbia,"Trades helpers, construction labourers and related occupations  [76]","3,560",23.05
+British Columbia,"Natural resources, agriculture and related production occupations  [8]","3,350",23.85
+British Columbia,"Supervisors and technical occupations in natural resources, agriculture and related production  [82]",435,31.65
+British Columbia,"Workers in natural resources, agriculture and related production  [84]","1,760",22.3
+British Columbia,"Harvesting, landscaping and natural resources labourers  [86]","1,155",23.3
+British Columbia,Occupations in manufacturing and utilities  [9],"4,575",21.15
+British Columbia,"Processing, manufacturing and utilities supervisors and central control operators  [92]",360,31.9
+British Columbia,Processing and manufacturing machine operators and related production workers  [94],"1,370",20.85
+British Columbia,Assemblers in manufacturing  [95],920,20.9
+British Columbia,"Labourers in processing, manufacturing and utilities  [96]","1,925",19.45
+British Columbia,Unclassified occupations 7,,
