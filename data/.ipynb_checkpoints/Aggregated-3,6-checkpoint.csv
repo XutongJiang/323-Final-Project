@@ -1,0 +1,101 @@
+﻿Province,Occupation,Income,Vacancy,Wage
+Newfoundland and Labrador,0 Legislative and senior management occupations,97000,275,33.3
+Newfoundland and Labrador,"1 Business, finance and administration occupations",47200,595,23.25
+Newfoundland and Labrador,2 Natural and applied sciences and related occupations,78500,295,35
+Newfoundland and Labrador,3 Health occupations,55200,"1,480",27.45
+Newfoundland and Labrador,"4 Occupations in education, law and social, community and government services",44800,710,20.65
+Newfoundland and Labrador,"5 Occupations in art, culture, recreation and sport",14200,,28.4
+Newfoundland and Labrador,6 Sales and service occupations,20000,"2,290",15.6
+Newfoundland and Labrador,"7 Trades, transport and equipment operators and related occupations",42800,965,25.25
+Newfoundland and Labrador,"8 Natural resources, agriculture and related production occupations",25000,70,25.95
+Newfoundland and Labrador,9 Occupations in manufacturing and utilities,21200,130,21.4
+Prince Edward Island,0 Legislative and senior management occupations,84000,90,25.75
+Prince Edward Island,"1 Business, finance and administration occupations",46400,270,20.7
+Prince Edward Island,2 Natural and applied sciences and related occupations,58800,100,26.45
+Prince Edward Island,3 Health occupations,47200,560,29.4
+Prince Edward Island,"4 Occupations in education, law and social, community and government services",47600,250,24.45
+Prince Edward Island,"5 Occupations in art, culture, recreation and sport",15400,,20.25
+Prince Edward Island,6 Sales and service occupations,19400,825,15.2
+Prince Edward Island,"7 Trades, transport and equipment operators and related occupations",36800,795,20.3
+Prince Edward Island,"8 Natural resources, agriculture and related production occupations",20000,130,16.75
+Prince Edward Island,9 Occupations in manufacturing and utilities,32000,320,16.15
+Nova Scotia,0 Legislative and senior management occupations,99000,780,31
+Nova Scotia,"1 Business, finance and administration occupations",44800,"2,045",22.7
+Nova Scotia,2 Natural and applied sciences and related occupations,67500,870,33.2
+Nova Scotia,3 Health occupations,48400,"3,165",29.55
+Nova Scotia,"4 Occupations in education, law and social, community and government services",54800,"2,170",23.7
+Nova Scotia,"5 Occupations in art, culture, recreation and sport",17000,290,19.75
+Nova Scotia,6 Sales and service occupations,20000,"7,520",15.7
+Nova Scotia,"7 Trades, transport and equipment operators and related occupations",41200,"3,380",22.85
+Nova Scotia,"8 Natural resources, agriculture and related production occupations",23000,460,18.8
+Nova Scotia,9 Occupations in manufacturing and utilities,36000,"1,020",19.65
+New Brunswick,0 Legislative and senior management occupations,87000,,
+New Brunswick,"1 Business, finance and administration occupations",45200,"1,370",23.1
+New Brunswick,2 Natural and applied sciences and related occupations,64500,580,31.75
+New Brunswick,3 Health occupations,46400,"1,725",27.45
+New Brunswick,"4 Occupations in education, law and social, community and government services",50000,910,21.55
+New Brunswick,"5 Occupations in art, culture, recreation and sport",19000,105,22.6
+New Brunswick,6 Sales and service occupations,21200,"5,115",15.5
+New Brunswick,"7 Trades, transport and equipment operators and related occupations",38800,"2,185",22.8
+New Brunswick,"8 Natural resources, agriculture and related production occupations",20800,375,18.6
+New Brunswick,9 Occupations in manufacturing and utilities,32400,"1,010",17.45
+Quebec,0 Legislative and senior management occupations,79500,"8,940",34.8
+Quebec,"1 Business, finance and administration occupations",46800,"23,790",25.75
+Quebec,2 Natural and applied sciences and related occupations,67500,"15,875",34
+Quebec,3 Health occupations,49200,"28,275",26.8
+Quebec,"4 Occupations in education, law and social, community and government services",49200,"13,735",26.5
+Quebec,"5 Occupations in art, culture, recreation and sport",28800,"3,620",26.65
+Quebec,6 Sales and service occupations,20400,"63,445",17.55
+Quebec,"7 Trades, transport and equipment operators and related occupations",43600,"33,430",25.3
+Quebec,"8 Natural resources, agriculture and related production occupations",23000,"2,155",19.95
+Quebec,9 Occupations in manufacturing and utilities,38800,"15,400",20.8
+Ontario,0 Legislative and senior management occupations,126000,"17,450",42.3
+Ontario,"1 Business, finance and administration occupations",53200,"40,910",26.95
+Ontario,2 Natural and applied sciences and related occupations,78500,"25,030",39.4
+Ontario,3 Health occupations,52400,"35,455",30.9
+Ontario,"4 Occupations in education, law and social, community and government services",58800,"24,260",27.05
+Ontario,"5 Occupations in art, culture, recreation and sport",23000,"5,800",23.6
+Ontario,6 Sales and service occupations,21600,"106,155",17.75
+Ontario,"7 Trades, transport and equipment operators and related occupations",44800,"48,120",25.8
+Ontario,"8 Natural resources, agriculture and related production occupations",22200,"5,160",20.35
+Ontario,9 Occupations in manufacturing and utilities,43600,"14,610",20.45
+Manitoba,0 Legislative and senior management occupations,100000,935,36.6
+Manitoba,"1 Business, finance and administration occupations",45600,"3,310",22.35
+Manitoba,2 Natural and applied sciences and related occupations,68500,835,32.35
+Manitoba,3 Health occupations,49200,"3,945",29.6
+Manitoba,"4 Occupations in education, law and social, community and government services",48000,"2,790",20.45
+Manitoba,"5 Occupations in art, culture, recreation and sport",21800,365,18.35
+Manitoba,6 Sales and service occupations,21400,"7,740",15.6
+Manitoba,"7 Trades, transport and equipment operators and related occupations",44400,"4,280",23.35
+Manitoba,"8 Natural resources, agriculture and related production occupations",23800,645,18.3
+Manitoba,9 Occupations in manufacturing and utilities,42400,995,19.4
+Saskatchewan,0 Legislative and senior management occupations,94000,,
+Saskatchewan,"1 Business, finance and administration occupations",49200,"1,970",24
+Saskatchewan,2 Natural and applied sciences and related occupations,76000,800,34.8
+Saskatchewan,3 Health occupations,53600,"1,965",31.7
+Saskatchewan,"4 Occupations in education, law and social, community and government services",54800,"1,675",24.5
+Saskatchewan,"5 Occupations in art, culture, recreation and sport",20000,330,18.7
+Saskatchewan,6 Sales and service occupations,23200,"9,965",15
+Saskatchewan,"7 Trades, transport and equipment operators and related occupations",50000,"4,230",26.35
+Saskatchewan,"8 Natural resources, agriculture and related production occupations",25000,825,24.5
+Saskatchewan,9 Occupations in manufacturing and utilities,54800,560,20.8
+Alberta,0 Legislative and senior management occupations,123000,"4,210",39.25
+Alberta,"1 Business, finance and administration occupations",53600,"8,575",26.95
+Alberta,2 Natural and applied sciences and related occupations,83000,"4,800",39.7
+Alberta,3 Health occupations,56400,"5,180",33.6
+Alberta,"4 Occupations in education, law and social, community and government services",59200,"6,335",24.1
+Alberta,"5 Occupations in art, culture, recreation and sport",21200,985,24.75
+Alberta,6 Sales and service occupations,24600,"31,390",17.25
+Alberta,"7 Trades, transport and equipment operators and related occupations",54000,"25,865",28.55
+Alberta,"8 Natural resources, agriculture and related production occupations",31000,"2,985",26.65
+Alberta,9 Occupations in manufacturing and utilities,58000,"2,815",22.7
+British Columbia,0 Legislative and senior management occupations,108000,"6,535",51.3
+British Columbia,"1 Business, finance and administration occupations",48800,"13,595",26.45
+British Columbia,2 Natural and applied sciences and related occupations,75000,"8,995",39.4
+British Columbia,3 Health occupations,55600,"10,360",32.75
+British Columbia,"4 Occupations in education, law and social, community and government services",52400,"10,955",27.1
+British Columbia,"5 Occupations in art, culture, recreation and sport",25200,"2,815",30.55
+British Columbia,6 Sales and service occupations,23200,"44,485",18.5
+British Columbia,"7 Trades, transport and equipment operators and related occupations",50400,"26,605",27.95
+British Columbia,"8 Natural resources, agriculture and related production occupations",26800,"3,350",23.85
+British Columbia,9 Occupations in manufacturing and utilities,45600,"4,575",21.15
